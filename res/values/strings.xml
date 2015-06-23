@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pcm2Amr</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_start">开始转换</string>
+    <string name="transfer_wait_title">请稍候</string>
+    <string name="transfer_wait_message">文件正在转换中,请稍候&#8230;</string>
+    <string name="success_hint">转码成功!</string>
+    <string name="transfer_result">AMR文件在SD卡根目录下,名为:test.amr</string>
+
+</resources>
