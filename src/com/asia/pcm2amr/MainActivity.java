@@ -38,7 +38,6 @@ public class MainActivity extends Activity implements OnClickListener{
 	
 	private void transferButtonClicked(){
 		showWaitDialog();
-		
 		startTransfer();
 	}
 	
